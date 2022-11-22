@@ -1,0 +1,15 @@
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/Fin Proj.csproj.AssemblyReference.cache
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/Fin Proj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/Fin Proj.AssemblyInfoInputs.cache
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/Fin Proj.AssemblyInfo.cs
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/Fin Proj.csproj.CoreCompileInputs.cache
+/Users/pavel/Desktop/Fin Proj/bin/Debug/net6.0/Fin Proj
+/Users/pavel/Desktop/Fin Proj/bin/Debug/net6.0/Fin Proj.deps.json
+/Users/pavel/Desktop/Fin Proj/bin/Debug/net6.0/Fin Proj.runtimeconfig.json
+/Users/pavel/Desktop/Fin Proj/bin/Debug/net6.0/Fin Proj.dll
+/Users/pavel/Desktop/Fin Proj/bin/Debug/net6.0/Fin Proj.pdb
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/Fin Proj.dll
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/refint/Fin Proj.dll
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/Fin Proj.pdb
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/Fin Proj.genruntimeconfig.cache
+/Users/pavel/Desktop/Fin Proj/obj/Debug/net6.0/ref/Fin Proj.dll
